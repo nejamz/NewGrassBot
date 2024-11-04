@@ -82,7 +82,7 @@ async def connect_to_wss(socks5_proxy, user_id):
 
 async def main():
     _user_id = ''   # Replace Your User ID HERE 
-    proxy_file = 'proxy.txt' # your Path to Proxy3.txt file 
+    proxy_file = 'proxies.txt' # your Path to Proxy3.txt file 
     # formate => socks5://username:pass@ip:port
     with open(proxy_file, 'r') as file:
         all_proxies = file.read().splitlines()

@@ -40,8 +40,8 @@ Automate Grass Node mining with this Python based script for VPS, managing multi
 
 Before running the script, ensure you have Python installed on your machine. Then, install the necessary Python packages using:
 
-1. ``` git clone https://github.com/Solana0x/GrassNode2.git ```
-2. ``` cd GrassNode2 ```
+1. ``` git clone https://github.com/FakerPK/NewGrassBot.git ```
+2. ``` cd NewGrassBot ```
 3. ``` pip install -r requirements.txt ```
 4. Replace `User ID` in `main.py` File Line ```81```.
 5. By default 100 proxies will be taken randomly if you wana change then change here `active_proxies = random.sample(all_proxies, 100)` line 87. Here 100 means 100 proxy will be used at once.

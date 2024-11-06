@@ -24,6 +24,8 @@ Automate Grass Node mining with this Python based script for VPS, managing multi
 - Invitation link Get Grass Accounts ( https://app.getgrass.io )
 - Python (install Python By - https://www.python.org/downloads/ [windows/mac]) or Ubuntu Server [`sudo apt install python3`]
 - VPS Server ! You can get Via AWS free Tier or Google Free tier or any online for just ~ 2-5$ per month
+- Proxy Server - Buy Only ISP Residential Proxies to Earn $GRASS else you will earn 0% on data Centers / Free Cheap proxies (Best proxy providers are)
+- Proxies.fo -  [https://app.proxies.fo](https://app.proxies.fo/ref/f1353b58-10c4-98a5-d94d-6164e2efcfaf) [Buy Only 1GB Plan Enough for 1-6 months and you get Unlimited Accounts or proxies]
 - Proxy Server - Buy Only ISP Residential Proxies to Earn $GRASS else you will earn 0% on data Centers 
   
 ## SETPS TO RUN THE CODE -

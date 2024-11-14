@@ -1,9 +1,9 @@
 # Grass Bot Newer Version Community Node 1.25x, Multiple Accounts
-Automate Grass Node mining with this Python based script for VPS, managing multiple Devices and IP address to ensure 24/7 uptime and maximize earnings. Perfect for those seeking a seamless and efficient way to handle WebSocket connections through HTTP Protocol.
-# UPDATE: NOW SOCKS5 PROXIES DON'T WORK GOOD, WE HAVE DECIDED TO ROUTE TO HTTP PROXIES.
+Automate Grass Node mining with this Python based script for VPS, managing multiple Devices and IP address to ensure 24/7 uptime and maximize earnings. Perfect for those seeking a seamless and efficient way to handle WebSocket connections through SOCKS5 Protocol.
+
 # Features
 * Grass Node Script for Stage 2 and 1.25x boost !!
-* Connects to a WebSocket server using HTTP proxies.
+* Connects to a WebSocket server using SOCKS proxies.
 * Handles Multiple Get Grass User IDs at once !! Multiple Proxies (1 Proxy ~3000 $GRASS Points per day)
 * As Per Stage 1 AIRDROP 1M Grass Points == 45 GRASS tokens roughly (N/A for Bonus Epooch) !!
 * Based ON Data USAGE 2 GB PROXY DATA Produces 1M Points Means; 6$ Spent on proxy Gives ~45 GRASS tokens.
@@ -34,7 +34,7 @@ Automate Grass Node mining with this Python based script for VPS, managing multi
 ![image](https://github.com/user-attachments/assets/c81fc995-11f9-4448-9355-0065d4286cf2)
 3. Buy one of these plans, remember DONOT BUY THE RESIDENTIAL PLAN ONLY BUY THE ISP PLAN:
 ![image](https://github.com/user-attachments/assets/bbd22e0a-22c7-42cf-8608-361d7310e0ae)
-4. Now you're going to generate HTTP proxies, and add them to the proxy.txt file.
+4. Now you're going to generate SOCKS5 proxies, and add them to the proxy.txt file.
 
 ## SETPS TO RUN THE CODE -
 

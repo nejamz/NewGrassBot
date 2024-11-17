@@ -1,6 +1,9 @@
 # Grass Bot Newer Version Community Node 1.25x, Multiple Accounts
 Automate Grass Node mining with this Python based script for VPS, managing multiple Devices and IP address to ensure 24/7 uptime and maximize earnings. Perfect for those seeking a seamless and efficient way to handle WebSocket connections through SOCKS5 Protocol.
 
+![AGPL License](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)
+
+
 # Features
 * Grass Node Script for Stage 2 and 1.25x boost !!
 * Connects to a WebSocket server using SOCKS proxies.
@@ -58,4 +61,4 @@ Before running the script, ensure you have Python installed on your machine. The
 
 - **Telegram** - [https://t.me/FakerPK](https://t.me/FakerPK)
 - **Discord** - [https://discord.gg/pGJSPtp9zz](https://discord.gg/Z58YmYwr))
-![AGPL License](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)
+

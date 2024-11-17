@@ -45,7 +45,7 @@ Before running the script, ensure you have Python installed on your machine. The
 3. ``` pip install -r requirements.txt ```
 4. Replace `User ID` in `main.py` File Line ```81```.
 5. By default 100 proxies will be taken randomly if you wana change then change here `active_proxies = random.sample(all_proxies, 100)` line 87. Here 100 means 100 proxy will be used at once.
-6. Dont Forget to add multiple proxies in the proxy.txt file you can add 1000+ proxy !! Formate # `http://username:pass@ip:port`.
+6. Dont Forget to add multiple proxies in the proxy.txt file you can add 1000+ proxy !! Formate # `socks5://username:pass@ip:port`.
 7. You can get Multiple Proxy Ip address from Proxies.fo Website !! [use multiple IP ! `1 IP == ~3000 $Grass per Day `.
 8. To Run Script `python3 main.py` - Proxy one
 10. To Run multiple User ID just copy paste the `main.py` file code and create new python file and repeat the process make sure to create new Folders and add different proxies !!. 
@@ -58,3 +58,4 @@ Before running the script, ensure you have Python installed on your machine. The
 
 - **Telegram** - [https://t.me/FakerPK](https://t.me/FakerPK)
 - **Discord** - [https://discord.gg/pGJSPtp9zz](https://discord.gg/Z58YmYwr))
+![AGPL License](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)

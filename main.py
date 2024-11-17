@@ -1,7 +1,6 @@
-# -*- coding: utf-8 -*-
-# @Author   :Solana0x 
-# @Curated  :FakerPK
-# @File     :main.py
+# Copyright (C) 2024 FakerPK
+# Licensed under the AGPL-3.0: https://www.gnu.org/licenses/agpl-3.0.html
+# This software is provided "as-is" without any warranties.
 # @Software :VSCode
 import asyncio
 import random
@@ -114,3 +113,4 @@ def remove_proxy_from_list(proxy):
 
 if __name__ == '__main__':
     asyncio.run(main())
+#SPECIAL THANKS TO SOLANAx0 FOR THIS CODE

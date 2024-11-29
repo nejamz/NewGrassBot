@@ -54,6 +54,13 @@ Before running the script, ensure you have Python installed on your machine. The
 10. To Run multiple User ID just copy paste the `main.py` file code and create new python file and repeat the process make sure to create new Folders and add different proxies !!. 
 
 **Note** - ~2GB Spent on Proxies = 45 $Grass tokens = $90 ~ As per Past trends and Old Stage 1 USERS.
+---
+##  **💸Donations**
+If you would like to support me or the development of this projects, you can make a donation using the following addresses:
+- **Solana :** ```9SqcZjiUAz9SYBBLwuA9uJG4UzwqC5HNWV2cvXPk3Kro```
+- **EVM :** ```0x2d550c8A47c60A43F8F4908C5d462184A40922Ef```
+- **BTC :** `bc1qhx7waktcttam9q9nt0ftdguguwg5lzq5hnasmm`
+---
 
 ## FOR ANY KIND OF HELP CONTACT : ` FakerPK` on Discord  https://discord.com/users/1087110214559473766
 

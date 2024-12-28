@@ -1,5 +1,5 @@
-# NOT WORKING ATM: Grass Bot Newer Version Community Node 1.25x, Multiple Accounts
-Automate Grass Node mining with this Python based script for VPS, managing multiple Devices and IP address to ensure 24/7 uptime and maximize earnings. Perfect for those seeking a seamless and efficient way to handle WebSocket connections through SOCKS5 Protocol.
+# UPDATED: Grass Desktop Node Bot 2.0x Earnings, Multiple Accounts.
+### Automate Grass Node mining with this Python based script for VPS, managing multiple Devices and IP address to ensure 24/7 uptime and maximize earnings. Perfect for those seeking a seamless and efficient way to handle WebSocket connections through SOCKS5 Protocol.
 
 ![AGPL License](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)
 
@@ -17,9 +17,13 @@ Automate Grass Node mining with this Python based script for VPS, managing multi
 
 1. Open the link and log in https://app.getgrass.io/dashboard
 2. Press F12 on the page to open the console and enter the code (Ctrl + Shift + i) inspect
-3. Write localStorage.getItem('userId') in the console
+3. Enter the following in the console:
+```javascript
+localStorage.getItem('userId')
+```
 4. "PRINTED TEXT IS THE USER_ID"
-![image](https://github.com/user-attachments/assets/335fd8e1-050f-4064-ac3b-0c86e934d2c4)
+![image](https://github.com/user-attachments/assets/ef45b21c-4a13-4853-a4b2-9c1b88b2eaae)
+
 
 
 ## Requirements
@@ -42,24 +46,40 @@ Automate Grass Node mining with this Python based script for VPS, managing multi
 ## SETPS TO RUN THE CODE -
 
 Before running the script, ensure you have Python installed on your machine. Then, install the necessary Python packages using:
-
-1. ``` git clone https://github.com/FakerPK/NewGrassBot.git ```
-2. ``` cd NewGrassBot ```
-3. ``` pip install -r requirements.txt ```
-4. Replace `User ID` in `main.py` File Line ```81```.
-5. By default 100 proxies will be taken randomly if you wana change then change here `active_proxies = random.sample(all_proxies, 100)` line 87. Here 100 means 100 proxy will be used at once.
-6. Dont Forget to add multiple proxies in the proxy.txt file you can add 1000+ proxy !! Formate # `socks5://username:pass@ip:port`.
-7. You can get Multiple Proxy Ip address from Proxies.fo Website !! [use multiple IP ! `1 IP == ~3000 $Grass per Day `.
-8. To Run Script `python3 main.py` - Proxy one
-10. To Run multiple User ID just copy paste the `main.py` file code and create new python file and repeat the process make sure to create new Folders and add different proxies !!. 
+#### 1. Clone the repo:
+```bash 
+git clone https://github.com/FakerPK/NewGrassBot.git
+```
+#### 2. Change Directory
+```bash
+cd NewGrassBot
+```
+#### 3. Install required packages
+```python
+pip install -r requirements.txt
+```
+4. You will be prompted for your `UserID` and the amount of proxies you want to use.
+5. Dont Forget to add your proxies in the proxy.txt file you can add 10000+ proxy !! Format # `socks5://username:pass@ip:port`.
+6. You can get Multiple Proxies from Proxies.fo Website. `1 IP == ~3000 $Grass per Day `.
+7. To Run Script `python3 main.py` 
+8. To Run multiple User ID just copy paste the `main.py` file code and create new python file and repeat the process make sure to create new Folders and add different proxies !!. 
 
 **Note** - ~2GB Spent on Proxies = 45 $Grass tokens = $90 ~ As per Past trends and Old Stage 1 USERS.
 ---
 ##  **💸Donations**
 If you would like to support me or the development of this projects, you can make a donation using the following addresses:
-- **Solana :** ```9SqcZjiUAz9SYBBLwuA9uJG4UzwqC5HNWV2cvXPk3Kro```
-- **EVM :** ```0x2d550c8A47c60A43F8F4908C5d462184A40922Ef```
-- **BTC :** `bc1qhx7waktcttam9q9nt0ftdguguwg5lzq5hnasmm`
+- **Solana :**
+```bash
+9SqcZjiUAz9SYBBLwuA9uJG4UzwqC5HNWV2cvXPk3Kro
+```
+- **EVM :**
+```bash
+0x2d550c8A47c60A43F8F4908C5d462184A40922Ef
+```
+- **BTC :**
+```bash
+bc1qhx7waktcttam9q9nt0ftdguguwg5lzq5hnasmm
+```
 ---
 
 ## FOR ANY KIND OF HELP CONTACT : ` FakerPK` on Discord  https://discord.com/users/1087110214559473766

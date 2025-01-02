@@ -5,7 +5,7 @@
 
 
 # Features
-* Grass Node Script for Stage 2 and 1.25x boost !!
+* Grass Node Script for Stage 2 and 2.00x boost !!
 * Connects to a WebSocket server using SOCKS proxies.
 * Handles Multiple Get Grass User IDs at once !! Multiple Proxies (1 Proxy ~3000 $GRASS Points per day)
 * As Per Stage 1 AIRDROP 1M Grass Points == 45 GRASS tokens roughly (N/A for Bonus Epooch) !!

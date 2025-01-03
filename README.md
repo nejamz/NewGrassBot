@@ -36,7 +36,7 @@ localStorage.getItem('userId')
 - Proxy Server - Buy Only ISP Residential Proxies to Earn $GRASS else you will earn 0% on data Centers
 
 ## If You Want To Buy Proxies From My Recommended Provider Follow These Steps
-1. Go to [https://app.proxies.fo](https://app.proxies.fo/ref/f1353b58-10c4-98a5-d94d-6164e2efcfaf) and Sign Up.
+1. Go to [https://app.proxies.fo](https://app.proxies.fo/ref/2713843d-b22b-dfb8-3351-775d16d245fc) and Sign Up.
 2. Go to the ISP section, DONOT BUY THE RESIDENTIAL PLAN OR ELSE THIS WON'T WORK:
 ![image](https://github.com/user-attachments/assets/c81fc995-11f9-4448-9355-0065d4286cf2)
 3. Buy one of these plans, remember DONOT BUY THE RESIDENTIAL PLAN ONLY BUY THE ISP PLAN:
